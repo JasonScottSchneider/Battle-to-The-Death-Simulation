@@ -1,0 +1,16 @@
+/home/jason/Workspace/workspace1/bin/Debug/net5.0/workspace1
+/home/jason/Workspace/workspace1/bin/Debug/net5.0/workspace1.deps.json
+/home/jason/Workspace/workspace1/bin/Debug/net5.0/workspace1.runtimeconfig.json
+/home/jason/Workspace/workspace1/bin/Debug/net5.0/workspace1.runtimeconfig.dev.json
+/home/jason/Workspace/workspace1/bin/Debug/net5.0/workspace1.dll
+/home/jason/Workspace/workspace1/bin/Debug/net5.0/ref/workspace1.dll
+/home/jason/Workspace/workspace1/bin/Debug/net5.0/workspace1.pdb
+/home/jason/Workspace/workspace1/obj/Debug/net5.0/workspace1.csproj.AssemblyReference.cache
+/home/jason/Workspace/workspace1/obj/Debug/net5.0/workspace1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jason/Workspace/workspace1/obj/Debug/net5.0/workspace1.AssemblyInfoInputs.cache
+/home/jason/Workspace/workspace1/obj/Debug/net5.0/workspace1.AssemblyInfo.cs
+/home/jason/Workspace/workspace1/obj/Debug/net5.0/workspace1.csproj.CoreCompileInputs.cache
+/home/jason/Workspace/workspace1/obj/Debug/net5.0/workspace1.dll
+/home/jason/Workspace/workspace1/obj/Debug/net5.0/ref/workspace1.dll
+/home/jason/Workspace/workspace1/obj/Debug/net5.0/workspace1.pdb
+/home/jason/Workspace/workspace1/obj/Debug/net5.0/workspace1.genruntimeconfig.cache
